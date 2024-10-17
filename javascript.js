@@ -1,0 +1,6 @@
+function botao(){
+    area = document.getElementById('area')
+
+    area = area.innerHTML = 'TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / TE AMO MUITO AMOR / '
+
+}
